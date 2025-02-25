@@ -15,3 +15,7 @@ Browse through the sections to explore my work.
 ## Contributors
 
 - [Rikus van Rooyen](https://github.com/Rikusvr375)
+
+## Contact 
+
+- [rikus-van-rooyen-email](rikusvr12@gmail.com)
