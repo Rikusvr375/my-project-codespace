@@ -18,4 +18,4 @@ Browse through the sections to explore my work.
 
 ## Contact 
 
-- [rikus-van-rooyen-email](rikusvr12@gmail.com)
+- [rikusvr12@gmail.com]
